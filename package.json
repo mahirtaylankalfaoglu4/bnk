@@ -1,0 +1,14 @@
+{
+  "name": "banka-hareketleri",
+  "version": "1.0.0",
+  "description": "Banka hesap hareketleri görüntüleyici",
+  "main": "index.html",
+  "scripts": {
+    "dev": "serve",
+    "build": "echo 'Build complete'",
+    "start": "serve -s ."
+  },
+  "dependencies": {
+    "serve": "^13.0.2"
+  }
+}
